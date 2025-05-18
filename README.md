@@ -6,7 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Williamsrvs/Williamsrvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, tudo bem?
+Sou Williams Rodrigues, formado em Administração de Empresas e pós-graduado em Ciência de Dados. Atuo há mais de 20 anos no segmento de tecnologia, com experiência sólida em análise de dados, consultoria de negócios e ensino.
+
+Trabalho como freelancer ministrando aulas de Microsoft Excel para empresas e pessoas que desejam sair do zero e desenvolver habilidades práticas. Também atuo como analista de dados em uma consultoria, desenvolvendo dashboards e painéis estratégicos que apoiam a tomada de decisão dos consultores master e de seus clientes.
+
+Tenho diversos projetos publicados no meu portfólio profissional, e sou apaixonado por tecnologia e por transformar dados em resultados reais. Gosto de atuar em projetos desafiadores e me comprometo com a entrega de soluções que agreguem valor.
