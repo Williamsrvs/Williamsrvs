@@ -4,7 +4,7 @@ Sou Analista de Business Intelligence com MBA em Big Data & Analytics e formaç�
 
 Tenho experiência com ferramentas e linguagens como:
 
-Business Intelligence: Power BI, Excel Avançado, Access
+ Business Intelligence: Python, Power BI, Excel Avançado, Access
 
 Linguagens: Python (Pandas, Flask, Streamlit, PyAutoGUI), VBA, JavaScript, HTML, CSS
 
