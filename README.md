@@ -1,14 +1,29 @@
-- 👋 Hi, I’m @Williamsrvs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá, eu sou o Williams Rodrigues
 
-Olá, tudo bem?
-Sou Williams Rodrigues, formado em Administração de Empresas e pós-graduado em Ciência de Dados. Atuo há mais de 20 anos no segmento de tecnologia, com experiência sólida em análise de dados, consultoria de negócios e ensino.
+Sou Analista de Business Intelligence com MBA em Big Data & Analytics e formação em Administração de Empresas. Minha atuação é focada em análise de dados, modelagem de banco de dados e desenvolvimento de dashboards interativos, transformando informações em insights estratégicos para apoiar a tomada de decisão em negócios e logística.
 
-Trabalho como freelancer ministrando aulas de Microsoft Excel para empresas e pessoas que desejam sair do zero e desenvolver habilidades práticas. Também atuo como analista de dados em uma consultoria, desenvolvendo dashboards e painéis estratégicos que apoiam a tomada de decisão dos consultores master e de seus clientes.
+Tenho experiência com ferramentas e linguagens como:
 
-Tenho diversos projetos publicados no meu portfólio profissional, e sou apaixonado por tecnologia e por transformar dados em resultados reais. Gosto de atuar em projetos desafiadores e me comprometo com a entrega de soluções que agreguem valor.
+Business Intelligence: Power BI, Excel Avançado, Access
+
+Linguagens: Python (Pandas, Flask, Streamlit, PyAutoGUI), VBA, JavaScript, HTML, CSS
+
+Bancos de Dados: MySQL, SQL Server, PostgreSQL
+
+Versionamento & Low-Code: GitHub, AppSheet
+
+🚀 Projetos em Destaque
+
+📊 WR SYSTEM – Sistema de gestão para academias com dashboards analíticos e controle financeiro, integrando análise de desempenho e gestão administrativa.
+
+🧠 NEUROEDUC – Plataforma voltada para análise educacional, com coleta de dados, relatórios automatizados e insights para acompanhamento de alunos.
+
+📈 Portfólio BI – Coleção de dashboards e painéis interativos publicados em Streamlit, com foco em performance operacional, logística e negócios.
+
+🌍 Conecte-se comigo
+
+🔗 LinkedIn
+
+🌐 Portfólio Online
+
+📧 dateanalytics@outlook.com
